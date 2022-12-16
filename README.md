@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marcos-ev&label=Profile%20views&color=0e75b6&style=flat" alt="marcos-ev" /> </p>
 
-- 🌱Estou trabalhando atualmente em projetos pessoais, utilizando **HTML5, CSS, Javascript, Bootstrap+Bulma.**
+- 🌱Estou trabalhando atualmente em projetos pessoais, utilizando **HTML5, CSS (Bulma || Boostrap), Javascript+Angular .**
 
 - 👨‍💻 Meus projetos estão aqui > [https://github.com/marcos-ev](https://github.com/marcos-ev)
 
