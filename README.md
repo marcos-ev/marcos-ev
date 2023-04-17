@@ -1,13 +1,13 @@
-<h1 align="center">Olá 👋, Meu nome é Marcos Eduardo, seja bem vindo!</h1>
-<h3 align="center">Um designer de produtos que se apaixonou por programação. Sempre em constante aprendizado.</h3>
+<h1 align="center">Hello 👋, I'm Marcos Eduardo, welcome!</h1>
+<h3 align="center">A product designer who fell in love with programming.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marcos-ev&label=Profile%20views&color=0e75b6&style=flat" alt="marcos-ev" /> </p>
 
-- 🌱Estou trabalhando atualmente em projetos de estudo, pessoais e do programa DEVinHouse, utilizando as seguintes stacks: Javascript | Angular | .Net | C# |
+- 🌱 I'm currently working on study, personal and DEVinHouse program projects, using the following stacks: Javascript | Angular | .Net | C# |
 
-- 👨‍💻 Meus projetos estão aqui > [https://github.com/marcos-ev](https://github.com/marcos-ev)
+- 👨‍💻 My projects are here > [https://github.com/marcos-ev](https://github.com/marcos-ev)
 
-- 📫 Entre em contato! **marcosev@gmail.com**
+- 📫 How to reach me: **marcosev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
