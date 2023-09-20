@@ -5,16 +5,16 @@
 
 - 🌱 I'm a Designer Industrial by education and hold a postgraduate degree in Strategic Project Management from UNISUL. I am passionate about technological challenges and a member of the Audaces team, a multinational company with a strong presence in the European market and a leader in its sector in Latin America.
 
-In my day-to-day, I focus on developing RESTful APIs using Node.js and Express, and I create precise documentation with Swagger. My experience encompasses backend system integration with various databases, including MongoDB, MySql, and SQL Server, as well as API integrations with ERPs.
+  In my day-to-day, I focus on developing RESTful APIs using Node.js and Express, and I create precise documentation with Swagger. My experience encompasses backend system integration with various databases, including MongoDB, MySql, and SQL Server, as well as API integrations with ERPs.
 
-I'm committed to continuously enhancing my skills and contributing to the success of both my team and the company.
+  I'm committed to continuously enhancing my skills and contributing to the success of both my team and the company.
 
 - 📫 How to reach me: **marcosev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/marcos-eduardo-virgili/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/marcos-eduardo-virgili/" height="30" width="40" /></a>
-<a href="https://www.behance.net/marcosev08fefb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/marcosev08fefb" height="30" width="40" /></a>
+
 </p>
 
 ### Languages and Tools:
