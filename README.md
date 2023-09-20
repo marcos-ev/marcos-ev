@@ -3,9 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marcos-ev&label=Profile%20views&color=0e75b6&style=flat" alt="marcos-ev" /> </p>
 
-- 🌱 I'm currently working on study, personal and DEVinHouse program projects, using the following stacks: Javascript | Angular | .Net | C# |
+- 🌱 I'm a Designer Industrial by education and hold a postgraduate degree in Strategic Project Management from UNISUL. I am passionate about technological challenges and a member of the Audaces team, a multinational company with a strong presence in the European market and a leader in its sector in Latin America.
 
-- 👨‍💻 My projects are here > [https://github.com/marcos-ev](https://github.com/marcos-ev)
+In my day-to-day, I focus on developing RESTful APIs using Node.js and Express, and I create precise documentation with Swagger. My experience encompasses backend system integration with various databases, including MongoDB, MySql, and SQL Server, as well as API integrations with ERPs.
+
+I'm committed to continuously enhancing my skills and contributing to the success of both my team and the company.
 
 - 📫 How to reach me: **marcosev@gmail.com**
 
